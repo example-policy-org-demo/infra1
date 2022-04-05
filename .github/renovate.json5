@@ -14,7 +14,7 @@
       ],
       "datasourceTemplate": "github-tags",
       "depNameTemplate": "policy",
-      "lookupNameTemplate": "example-policy-org/policy",
+      "lookupNameTemplate": "example-policy-org-demo/policy",
       "versioningTemplate": "semver"
     }
   ]
